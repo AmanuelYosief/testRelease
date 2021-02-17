@@ -17,12 +17,12 @@ const RESOURCES = {
 "favicon-16x16.png": "a41f4b0b8f609a2ee9595ddb8a3248d5",
 "favicon.ico": "b2032bbae9c8634dc1365a6c2bb18b72",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "6dbefb998f0776e9c2dd3d20b25d4abb",
-"/": "6dbefb998f0776e9c2dd3d20b25d4abb",
+"index.html": "098651d9818fc340749b409f1c58161f",
+"/": "098651d9818fc340749b409f1c58161f",
 "jsQR.js": "57acfde2e7d8e7eb44dff4460daac729",
 "kira_icon.png": "3b2397454fba4e992b5c364a19a4ed3f",
 "kira_logo.png": "95c92c4a1e5acb6346666aec627f1144",
-"main.dart.js": "b8a83ccf45117d424a468233bd3279ce",
+"main.dart.js": "2df80a386ad91da5e9a2c08b53ae8ef2",
 "manifest.json": "3123d1736e095bf2c9244a1d83678c29",
 "version.json": "6b5cbd243a71bed9a69206760de414f4"
 };
