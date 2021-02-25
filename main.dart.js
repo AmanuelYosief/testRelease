@@ -11984,7 +11984,7 @@ var $async$f6=P.G(function(a,b){if(a===1)return P.N(b,r)
 while(true)switch(s){case 0:s=3
 return P.B(T.xS(),$async$f6)
 case 3:p=b
-q=(!J.jH(p,"http")?"http://"+p:p)+"/api"
+q=(!J.jH(p,"http")?"https://"+p:p)+"/api"
 s=1
 break
 case 1:return P.O(q,r)}})
