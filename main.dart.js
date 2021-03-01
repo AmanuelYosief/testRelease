@@ -74091,7 +74091,7 @@ acB:function(a){var s=null,r=F.e0(C.ah,2),q=K.d8(9),p=M.z(s,L.G("Available Netwo
 return M.z(s,M.z(s,new K.iW(T.aH(H.a([p,M.or(!0,K.oM(C.ah,n,32,P.ao(new H.a4(l,new K.alz(),k),!0,k.i("aG.E")),new K.alA(this),m,o,t.X))],t.t),C.D,C.L,C.j),s),C.e,s,s,new S.bm(C.ao,s,r,q,s,s,C.I),s,s,s,s,s,s,s),C.e,s,s,s,s,s,new V.B(0,0,0,30),s,s,s,s)},
 Dq:function(){var s=null,r=this.ch
 return T.aH(H.a([Y.eQ(!1,this.cx,r,"interx.servicenet.local (0.0.0.0:11000)",C.b_,"Custom RPC URL",1,!1,new K.alv(this),C.a0,A.y(s,s,C.x,s,s,s,s,s,"NunitoSans",s,s,18,s,C.t,s,s,!0,s,s,s,s,s,s),C.E,C.az,0),T.a0(s,10,s)],t.t),C.D,C.o,C.j)},
-aco:function(a){var s=this,r=null,q=R.bG(!1,r,!0,L.G("Check",r,r,r,r,A.y(r,r,C.aD,r,s.y?C.h7:r,r,r,r,r,r,r,14,r,r,r,r,!0,r,r,r,r,r,r),C.E,r),r,!0,r,r,r,r,r,r,r,new K.alr(s),r,new K.als(s),r,r,r),p=T.a0(r,r,20),o=s.z,n=o?"":"The custom network is not valid"
+aco:function(a){var s=this,r=null,q=R.bG(!1,r,!0,L.G("Check",r,r,r,r,A.y(r,r,C.aD,r,s.y?C.h7:r,r,r,r,r,r,r,14,r,r,r,r,!0,r,r,r,r,r,r),C.E,r),r,!0,r,r,r,r,r,r,r,new K.alr(s),r,new K.als(s),r,r,r),p=T.a0(r,r,20),o=s.z,n=o?"":"URL is not valid"
 return M.z(r,T.aM(H.a([q,p,L.G(n,r,r,r,r,A.y(r,r,o?C.aD:C.aJ,r,r,r,r,r,r,r,r,14,r,r,r,r,!0,r,r,r,r,r,r),C.E,r)],t.t),C.bC,C.as,C.j,r),C.e,r,r,r,r,r,new V.B(0,0,0,30),r,r,r,r)},
 P3:function(a){var s=a?220:null
 return Q.cI(15,60,!1,!1,new D.bh("login_with_keyfile",t.W),new K.alw(this),1,"Log in with Key File",s)},
@@ -74128,7 +74128,7 @@ K.alu.prototype={
 $0:function(){var s,r=P.bo(u.i,!1,!1),q=this.b
 if(typeof q!="string")H.h(H.bF(q))
 s=this.a
-if(!r.b.test(q))s.r="The custom network is not valid"
+if(!r.b.test(q))s.r="URL is not valid"
 else s.r=""},
 $S:1}
 K.alr.prototype={
@@ -75049,7 +75049,7 @@ A.ap9.prototype={
 $0:function(){var s,r=P.bo(u.i,!1,!1),q=this.b
 if(typeof q!="string")H.h(H.bF(q))
 s=this.a
-if(!r.b.test(q))s.Q="The custom network is not valid"
+if(!r.b.test(q))s.Q="URL is not valid"
 else s.Q=""},
 $S:1}
 A.ape.prototype={
