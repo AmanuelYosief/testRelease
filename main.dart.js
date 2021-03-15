@@ -77633,7 +77633,8 @@ return P.C(q.d.ac(),$async$ac)
 case 2:if(q.c!=null)q.B(new B.anb(q))
 return P.M(null,r)}})
 return P.N($async$ac,r)},
-F:function(a,b){var s,r,q,p,o=this,n=null,m=o.f,l=t.t,k=H.a([M.z(n,L.E("Create New Account",n,n,n,n,A.y(n,n,C.r,n,n,n,n,n,n,n,n,30,n,C.as,n,n,!0,n,n,n,n,n,n),C.E,n),C.e,n,n,n,n,n,new V.B(0,0,0,40),n,n,n,n),M.z(n,T.az(H.a([T.b6(L.E("We're glad, to see that you want to create an account. After your Public Address has been generated (you may generate additional accounts by clicking Generate Again), please complete account information below, export Keyfile, copy and store Menmonic words in a safe location. Once complete, please use the Back button to log into your new account.",n,n,n,n,A.y(n,n,C.aA,n,n,n,n,n,n,n,n,18,n,n,n,n,!0,n,n,n,n,n,n),C.E,n),1)],l),C.m,C.n,C.i,n),C.e,n,n,n,n,n,new V.B(0,0,0,30),n,n,n,n),o.tJ()],l)
+F:function(a,b){var s,r,q,p,o=this,n=null,m=o.f,l=t.t,k=H.a([M.z(n,L.E("Create New Account",n,n,n,n,A.y(n,n,C.r,n,n,n,n,n,n,n,n,30,n,C.as,n,n,!0,n,n,n,n,n,n),C.E,n),C.e,n,n,n,n,n,new V.B(0,0,0,40),n,n,n,n),o.tJ()],l)
+if(o.Q!=null)k.push(M.z(n,T.az(H.a([T.b6(L.E("Your Public Address has been generated (you may generate additional accounts by clicking Generate Again). Please export and save your Keyfile, copy and store Menmonic words in a safe location. Once complete, please use the Back button to log into your new account.",n,n,n,n,A.y(n,n,C.aA,n,n,n,n,n,n,n,n,18,n,n,n,n,!0,n,n,n,n,n,n),C.E,n),1)],l),C.m,C.n,C.i,n),C.e,n,n,n,n,n,new V.B(0,0,0,30),n,n,n,n))
 if(o.Q!=null)k.push(o.afo())
 s=o.Q
 r=s!=null
@@ -77658,9 +77659,8 @@ p=o.dx
 p=H.a([i,s,r,q,Y.er(!1,o.go,p,j,n,C.aL,j,1,!0,new B.an7(o),C.Y,A.y(n,n,C.r,n,n,n,n,n,l,n,n,23,n,C.q,n,n,!0,n,n,n,n,n,n),C.E,C.at,0)],t.t)
 if(o.z.length!==0)p.push(T.X(n,15,n))
 i=o.z
-if(i.length!==0)i=""
-p.push(M.z(new K.dd(0,0),L.E(i,n,n,n,n,A.y(n,n,C.aG,n,n,n,n,n,l,n,n,13,n,C.aV,n,n,!0,n,n,n,n,n,n),n,n),C.e,n,n,n,n,n,new V.B(0,0,0,20),n,n,n,n))
-return M.z(n,T.aD(p,C.m,C.n,C.i),C.e,n,n,n,n,n,new V.B(0,0,0,0),n,n,n,n)},
+if(i.length!==0)p.push(M.z(new K.dd(0,0),L.E(i,n,n,n,n,A.y(n,n,C.aG,n,n,n,n,n,l,n,n,13,n,C.aV,n,n,!0,n,n,n,n,n,n),n,n),C.e,n,n,n,n,n,new V.B(0,0,0,20),n,n,n,n))
+return M.z(n,T.aD(p,C.m,C.n,C.i),C.e,n,n,n,n,n,new V.B(0,0,0,30),n,n,n,n)},
 ES:function(){var s=null,r=this.cx?"Copied":"Copy"
 return M.z(C.c3,Q.cE(14,36,new D.bi("copy",t.O),new B.amX(this),1,r,130),C.e,s,s,s,s,s,new V.B(0,0,0,60),s,s,s,s)},
 afo:function(){var s,r,q,p=this,o=null,n="Public Address",m=p.Q,l=m!=null?m.gds():""
@@ -77672,8 +77672,8 @@ q.sb6(0,l)
 return M.z(o,T.az(H.a([m,s,T.b6(Y.er(!1,q,r,n,o,C.aL,n,1,!1,o,C.Y,A.y(o,o,C.r,o,o,o,o,o,"NunitoSans",o,o,18,o,C.q,o,o,!0,o,o,o,o,o,o),C.E,C.at,0),1)],t.t),C.m,C.n,C.i,o),C.e,o,o,o,o,o,new V.B(0,0,0,30),o,o,o,o)},
 afa:function(){var s=null,r=t.O,q=Q.cE(14,60,new D.bi("export",r),new B.amZ(this),2,"Export to Key File",s),p=T.X(s,30,s),o=!this.y?"Show mnemonic":"Hide mnemonic"
 return T.b6(T.aD(H.a([q,p,Q.cE(15,60,new D.bi("show_seed",r),new B.an_(this),1,o,s)],t.t),C.C,C.H,C.i),1)},
-kC:function(){var s=null,r=t.O
-return M.z(s,T.aD(H.a([Q.cE(15,60,new D.bi("create_account",r),new B.amT(this),2,"Next",s),T.X(s,30,s),Q.cE(15,60,new D.bi("go_back",r),new B.amU(this),1,"Back",s)],t.t),C.C,C.H,C.i),C.e,s,s,s,s,s,new V.B(0,0,0,30),s,s,s,s)},
+kC:function(){var s=null,r=t.O,q=this.Q==null?"Generate":"Generate Again"
+return M.z(s,T.aD(H.a([Q.cE(15,60,new D.bi("create_account",r),new B.amT(this),2,q,s),T.X(s,30,s),Q.cE(15,60,new D.bi("go_back",r),new B.amU(this),1,"Back",s)],t.t),C.C,C.H,C.i),C.e,s,s,s,s,s,new V.B(0,0,0,30),s,s,s,s)},
 kB:function(){var s,r=null,q=t.O,p=this.Q==null,o=p?1:2
 o=Q.cE(15,60,new D.bi("go_back",q),new B.amP(this),o,"Back",220)
 s=p?"Generate":"Generate Again"
@@ -78024,7 +78024,7 @@ D.apg.prototype={
 $1:function(a){var s=t._,r=this.a.c
 if(a){r.toString
 K.bR(r,"/login",s,s)}else{r.toString
-K.bR(r,"/deposit",s,s)}},
+K.bR(r,"/account",s,s)}},
 $S:10}
 K.r9.prototype={
 a6:function(){return new K.VA(new K.en(),H.a(["Custom Network"],t.V),C.o)}}
@@ -78221,7 +78221,7 @@ B.ur(p.x)
 o=p.c
 o.toString
 q=t._
-K.bR(o,"/deposit",q,q)}else p.B(new X.aqy(p))},
+K.bR(o,"/account",q,q)}else p.B(new X.aqy(p))},
 kB:function(){var s=null,r=t.O
 return M.z(s,T.az(H.a([Q.cE(15,60,new D.bi("go_back",r),new X.aqp(this),1,"Back",220),Q.cE(15,60,new D.bi("log_in",r),new X.aqq(this),2,"Log In",220)],t.t),C.m,C.av,C.i,s),C.e,s,s,s,s,s,new V.B(0,0,0,30),s,s,s,s)},
 kC:function(){var s=null,r=t.O
@@ -78339,7 +78339,7 @@ B.ur(g.f)
 k=g.c
 k.toString
 k=K.hR(k,!1)
-i=k.xP("/deposit",f,n)
+i=k.xP("/account",f,n)
 i.toString
 h=$.a_K()
 k.acm(new K.e9(i,f,C.kL,h,h,h),f)
@@ -79353,7 +79353,7 @@ A.auK.prototype={
 $0:function(){var s,r=this.a.c
 r.toString
 s=t._
-K.bR(r,"/deposit",s,s)},
+K.bR(r,"/account",s,s)},
 $S:1}
 Z.tC.prototype={
 a6:function(){var s=t.gZ,r=t.V
