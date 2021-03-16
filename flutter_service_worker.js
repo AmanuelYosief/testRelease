@@ -3,13 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "7915a4fb943e1b00826b55558df951da",
+  "assets/AssetManifest.json": "d85d04f831cc5319de406ba6299120e9",
 "assets/assets/config.json": "074aa91c25b51f67f67427381e3d76b5",
 "assets/assets/images/background.png": "9f9dee0127351159e158c4a357594c89",
 "assets/assets/images/cover.jpeg": "1a762f948495823a0472596cfcb15643",
 "assets/assets/images/key.png": "349f92f0e8a84a6b8c4fadfcad4212d9",
 "assets/assets/images/kira_logo.png": "95c92c4a1e5acb6346666aec627f1144",
 "assets/assets/images/kira_logo_gray.png": "c4a5c302931a71734c712b6acfb7f4f3",
+"assets/assets/images/kira_qr_logo.png": "9367f9aab18605db502fbd31abde94e5",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/NOTICES": "ee9876f78ffee032262f0187e9aa1ff4",
@@ -19,11 +20,11 @@ const RESOURCES = {
 "favicon-16x16.png": "a41f4b0b8f609a2ee9595ddb8a3248d5",
 "favicon.ico": "b2032bbae9c8634dc1365a6c2bb18b72",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "9f56bf1b1aa18000888365a3387ab3aa",
-"/": "9f56bf1b1aa18000888365a3387ab3aa",
+"index.html": "4c0dd269a659da55fc660df33d4cdd67",
+"/": "4c0dd269a659da55fc660df33d4cdd67",
 "jsQR.js": "57acfde2e7d8e7eb44dff4460daac729",
 "kira_logo.png": "95c92c4a1e5acb6346666aec627f1144",
-"main.dart.js": "ed40005cebe9b793cd56f3673856745d",
+"main.dart.js": "661a75e65be030d155d0a08e472b85d2",
 "manifest.json": "3123d1736e095bf2c9244a1d83678c29",
 "version.json": "6b5cbd243a71bed9a69206760de414f4"
 };
